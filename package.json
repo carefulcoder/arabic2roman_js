@@ -1,0 +1,22 @@
+{
+  "name": "arabic2roman_js",
+  "version": "1.0.0",
+  "description": "A JavaScript program to convert Arabic numerals to Roman numerals with TDD and Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carefulcoder/arabic2roman_js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carefulcoder/arabic2roman_js/issues"
+  },
+  "homepage": "https://github.com/carefulcoder/arabic2roman_js#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
